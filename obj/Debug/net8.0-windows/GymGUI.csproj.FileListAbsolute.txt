@@ -1,0 +1,130 @@
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI..resources
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.Dashboard.resources
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.Members.resources
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.PlanForm.resources
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.TrainerForm.resources
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.GenerateResource.cache
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.AssemblyInfoInputs.cache
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.AssemblyInfo.cs
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\GymGUI.exe
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\GymGUI.deps.json
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\GymGUI.runtimeconfig.json
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\GymGUI.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\GymGUI.pdb
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.Up2Date
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\refint\GymGUI.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.pdb
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.genruntimeconfig.cache
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\ref\GymGUI.dll
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.Nutrition.resources
+C:\Users\moham\source\repos\GymGUI\GymGUI\obj\Debug\net8.0-windows\GymGUI.Classes.resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\GymGUI.exe
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\GymGUI.deps.json
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\GymGUI.runtimeconfig.json
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\GymGUI.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\GymGUI.pdb
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.AssemblyReference.cache
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI..resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.Classes.resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.Dashboard.resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.Members.resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.Nutrition.resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.PlanForm.resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.TrainerForm.resources
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.GenerateResource.cache
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.AssemblyInfoInputs.cache
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.AssemblyInfo.cs
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.CoreCompileInputs.cache
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.csproj.Up2Date
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\refint\GymGUI.dll
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.pdb
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\GymGUI.genruntimeconfig.cache
+C:\Users\Hamzah Elleithy\Desktop\GymGUI\obj\Debug\net8.0-windows\ref\GymGUI.dll
